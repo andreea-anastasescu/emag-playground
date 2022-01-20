@@ -1,2 +1,3 @@
 # emag-playground
-emag system diagrams
+Emag system diagrams
+
